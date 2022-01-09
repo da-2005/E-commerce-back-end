@@ -1,7 +1,7 @@
 # E-commerce Express.js API
 
 ## Description
-I was given the back-end starter code to an Express.js API for an e-commerce site and was tassked with usining Sequelize to interact with the site's MySQL database.
+I was given the back-end starter code to an Express.js API for an e-commerce site and was tasked with using Sequelize to interact with the site's MySQL database.
 
 ## Table of Contents
 * [Technologies](#Technologies)
